@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T09:08:19.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="TnPtZevr2WNcpdinq1S4" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T15:18:21.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="NmXLb_Wx6nI0s8KZj3K1" version="22.1.8" type="github">
   <diagram name="Page-1" id="XkR47Kjn2yLEu6bw3HZA">
-    <mxGraphModel dx="2206" dy="2372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="2428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="53OA05vvSE1mkwLguFmQ-62" value="Django" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png" parent="53OA05vvSE1mkwLguFmQ-45" vertex="1">
           <mxGeometry x="115" y="80" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="53OA05vvSE1mkwLguFmQ-45">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="53OA05vvSE1mkwLguFmQ-45" vertex="1">
           <mxGeometry x="30" y="210" width="73.17" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-22" value="" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
@@ -61,8 +61,11 @@
         <mxCell id="53OA05vvSE1mkwLguFmQ-37" value="RunPipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;" parent="53OA05vvSE1mkwLguFmQ-34" vertex="1">
           <mxGeometry x="122" y="180" width="56" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Openshift&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="53OA05vvSE1mkwLguFmQ-34">
+          <mxGeometry x="70" y="304" width="50" height="46" as="geometry" />
+        </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-47" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1187.69" y="610" width="200" height="350" as="geometry" />
+          <mxGeometry x="1187.69" y="740" width="200" height="350" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-48" value="" style="whiteSpace=wrap;html=1;shadow=1;" parent="53OA05vvSE1mkwLguFmQ-47" vertex="1">
           <mxGeometry width="200" height="310" as="geometry" />
@@ -80,7 +83,7 @@
           <mxGeometry x="65.5" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/browser-window-with-stats-128.png" parent="1" vertex="1">
-          <mxGeometry x="1227.69" y="470" width="128" height="128" as="geometry" />
+          <mxGeometry x="1227.69" y="600" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-57" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/mobile_backend.svg;" parent="1" vertex="1">
           <mxGeometry x="253.03" width="90" height="90" as="geometry" />
@@ -139,22 +142,22 @@
           <mxGeometry x="870" y="730" width="200" height="420" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-87" value="" style="whiteSpace=wrap;html=1;shadow=1;" parent="53OA05vvSE1mkwLguFmQ-86" vertex="1">
-          <mxGeometry x="50" y="-120" width="200" height="310" as="geometry" />
+          <mxGeometry x="50" y="10" width="200" height="310" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Test&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBEBEB;" parent="53OA05vvSE1mkwLguFmQ-86" vertex="1">
-          <mxGeometry x="50" y="-120" width="200" height="49.99999999999999" as="geometry" />
+          <mxGeometry x="50" y="10" width="200" height="49.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-93" value="Experiments" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instances;fillColor=#F58534;gradientColor=none;" parent="53OA05vvSE1mkwLguFmQ-86" vertex="1">
-          <mxGeometry x="70" y="-60" width="60" height="63" as="geometry" />
+          <mxGeometry x="70" y="70" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-94" value="Data Analysis" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instances;fillColor=#F58534;gradientColor=none;" parent="53OA05vvSE1mkwLguFmQ-86" vertex="1">
-          <mxGeometry x="170" y="-50" width="60" height="63" as="geometry" />
+          <mxGeometry x="170" y="80" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-95" value="Run Pipeline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.instances;fillColor=#F58534;gradientColor=none;" parent="53OA05vvSE1mkwLguFmQ-86" vertex="1">
-          <mxGeometry x="70" y="60" width="60" height="63" as="geometry" />
+          <mxGeometry x="70" y="190" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-97" value="Apache Airflow" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_workflows_for_apache_airflow;" parent="1" vertex="1">
-          <mxGeometry x="980" y="502" width="78" height="78" as="geometry" />
+          <mxGeometry x="980" y="632" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="53OA05vvSE1mkwLguFmQ-98" value="Turkcell Automl" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.augmented_ai;" parent="1" vertex="1">
           <mxGeometry x="980" y="155" width="103" height="103" as="geometry" />
@@ -162,46 +165,97 @@
         <mxCell id="53OA05vvSE1mkwLguFmQ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="53OA05vvSE1mkwLguFmQ-70" target="53OA05vvSE1mkwLguFmQ-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="60" y="502" width="200" height="190" as="geometry" />
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry y="1250" width="200" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-12" value="Backend" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-11">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-12" value="Backend" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-11" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-13" value="Dockerize şekilde cloud ortamda çalışıyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-11">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-13" value="Dockerize şekilde cloud ortamda çalışıyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-11" vertex="1">
           <mxGeometry width="200" height="60" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-14" value="Kafka ille master ile mesajlaşıyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-11">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-14" value="Kafka ille master ile mesajlaşıyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-11" vertex="1">
           <mxGeometry width="200" height="50" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-15" value="Django framework yapısını kullanıyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-11">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-15" value="Django rest framework yapısını kullanıyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-11" vertex="1">
           <mxGeometry width="200" height="50" relative="1" as="geometry">
             <mxPoint y="140" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-23" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="53.03" y="730" width="200" height="190" as="geometry" />
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-23" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1250" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-24" value="Storage" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-23">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-24" value="Storage" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-23" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-25" value="Redis ile tekrar eden data isteklerinin cacheden getirilmesi" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-23">
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-25" value="Redis ile tekrar eden data isteklerinin cacheden getirilmesi" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-23" vertex="1">
+          <mxGeometry width="200" height="90" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-26" value="Model datası, şifrelenmiş halde, object storageda tutuluyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-23" vertex="1">
+          <mxGeometry width="200" height="90" relative="1" as="geometry">
+            <mxPoint y="110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fJgu6aHgxFHwW13sNsPK-27" value="PostgreSQL ile no sql yapı ile json data saklanabiliyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" parent="fJgu6aHgxFHwW13sNsPK-23" vertex="1">
+          <mxGeometry width="200" height="80" relative="1" as="geometry">
+            <mxPoint y="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-6" value="Eğitilmiş model dosyaları object storageda tutuluyor." style="strokeColor=none;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1520" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1270" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-9" value="Monitoring" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-8">
+          <mxGeometry width="200" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-10" value="Grafana altyapısı kullanılıyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-8">
           <mxGeometry width="200" height="60" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-26" value="Model datası, şifrelenmiş halde, object storageda tutuluyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-23">
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-11" value="Loki ile detaylı loglama yapısı bulunuyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-8">
           <mxGeometry width="200" height="50" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJgu6aHgxFHwW13sNsPK-27" value="PostgreSQL ile no sql yapı ile json data saklanabiliyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=14;" vertex="1" parent="fJgu6aHgxFHwW13sNsPK-23">
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-12" value="Prometheus ile servis metrikleri izleniyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-8">
           <mxGeometry width="200" height="50" relative="1" as="geometry">
             <mxPoint y="140" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1250" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-14" value="Master" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-13">
+          <mxGeometry width="200" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-15" value="Backendden gelen istekler, istek tipine göre experiment, data analiz, deployment, run pipeline workerlarını tetikliyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-13">
+          <mxGeometry width="200" height="120" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-16" value="Her bir worker ayrı bir pod ile ayağa kalkıyor var işlemi tamamlıyor" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-13">
+          <mxGeometry width="200" height="70" relative="1" as="geometry">
+            <mxPoint y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1260" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-19" value="Test" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-18">
+          <mxGeometry width="200" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zuOpw0ZFS3uDNEdH8G6p-20" value="Airflow ile model eğitim, data analiz, run pipeline süreçleri test ediliyor." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=15;" vertex="1" parent="zuOpw0ZFS3uDNEdH8G6p-18">
+          <mxGeometry width="200" height="60" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
